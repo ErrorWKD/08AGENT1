@@ -1,0 +1,87 @@
+- generic [ref=f23e1]:
+  - generic [ref=f23e4]:
+    - generic:
+      - paragraph: SNS 트렌드 리포트
+      - heading "요즘 10대 사이에서 핫한 챌린지 트렌드 TOP 5" [level=1]: 요즘 10대 사이에서핫한 챌린지 트렌드 TOP 5
+      - paragraph: 친구랑 같이 도전하면 더 재밌는, 요즘 인기 챌린지 모음
+      - generic:
+        - generic: gyeom11
+        - generic: ·
+        - generic: 2026. 8. 15.
+      - paragraph: → 방향키 또는 클릭으로 넘겨보세요
+    - generic [ref=f23e27]:
+      - paragraph [ref=f23e28]: INTRO
+      - heading "SNS만 켜면 쏟아지는 챌린지 영상들" [level=2] [ref=f23e29]: SNS만 켜면 쏟아지는챌린지 영상들
+      - paragraph [ref=f23e30]: 요즘 SNS만 켜면 여기저기서 챌린지 영상이 쏟아지죠? 친구들이랑 같이 도전해보면 더 재밌는 요즘 10대 사이 인기 챌린지들을 모아봤어요.
+      - paragraph [ref=f23e31]: 오늘 소개하는 챌린지들, 하나쯤은 이미 들어보셨을지도 몰라요!
+      - generic [ref=f23e32]:
+        - generic [ref=f23e33]: "#10대"
+        - generic [ref=f23e34]: "#SNS"
+        - generic [ref=f23e35]: "#유행"
+        - generic [ref=f23e36]: "#챌린지"
+        - generic [ref=f23e37]: "#트렌드"
+    - generic:
+      - generic: "01"
+      - generic: 📚
+      - heading "오늘의 스터디 챌린지" [level=2]
+      - paragraph: 책상 정리부터 오늘의 공부 목표까지 짧게 기록하고 인증하는 챌린지예요. 거창한 계획이 아니어도 괜찮아요.
+      - blockquote: "\"오늘은 수학 문제집 10쪽 풀기\""
+      - paragraph: 처럼 작은 목표를 세우고 인증샷을 남기면, 며칠만 지나도 꾸준함이 눈에 보여서 뿌듯함이 커져요. 혼자 하기 힘들다면 친구랑 같이 하는 것도 추천!
+    - generic:
+      - generic: "02"
+      - generic: 💃
+      - heading "댄스 챌린지" [level=2]
+      - paragraph: 숏폼 영상에서 빠질 수 없는 게 바로 댄스 챌린지죠. 짧은 안무를 따라 추고 영상으로 남기는 건데, 처음엔 어색해도 몇 번 연습하면 금방 익숙해져요.
+      - paragraph:
+        - text: 완벽하게 추지 않아도 괜찮아요.
+        - strong: 즐기면서 찍는 게 포인트!
+    - generic:
+      - generic: "03"
+      - generic: 🛋️
+      - heading "방 꾸미기 챌린지" [level=2]
+      - paragraph: 내 방을 조금씩 바꿔가는 과정을 기록하는 챌린지예요. 큰 돈 들이지 않고도 소품 배치만 바꾸거나 포토존을 만들어보는 것만으로 분위기가 확 달라져요.
+      - paragraph: 비포&애프터 사진을 남기면 나중에 보는 재미도 쏠쏠해요.
+    - generic:
+      - generic: "04"
+      - generic: 📝
+      - heading "하루 3줄 일기 챌린지" [level=2]
+      - paragraph: 거창한 다이어리 꾸미기가 부담스럽다면, 하루를 딱 세 줄로만 기록하는 챌린지를 추천해요.
+      - list:
+        - listitem:
+          - generic: "01"
+          - text: 오늘 있었던 일
+        - listitem:
+          - generic: "02"
+          - text: 느낀 점
+        - listitem:
+          - generic: "03"
+          - text: 내일 하고 싶은 것
+      - paragraph: 이렇게 짧게 남기면 부담 없이 꾸준히 이어갈 수 있어요.
+    - generic:
+      - generic: "05"
+      - generic: 📵
+      - heading "디지털 디톡스 챌린지" [level=2]
+      - paragraph:
+        - text: 역설적이게도 SNS에서 가장 화제가 되는 챌린지 중 하나가 바로
+        - strong: "'스마트폰 안 보기'"
+        - text: 챌린지예요.
+      - paragraph: 하루 중 일정 시간을 정해두고 스마트폰 없이 보내는 건데, 막상 해보면 생각보다 시간이 많이 남는다는 걸 느낄 수 있어요.
+    - generic:
+      - paragraph: OUTRO
+      - heading "여러분은 어떤 챌린지를 해보셨나요?" [level=2]: 여러분은어떤 챌린지를 해보셨나요?
+      - paragraph: 이 중에서 여러분이 이미 해본 챌린지가 있나요? 아니면 새롭게 도전해보고 싶은 챌린지가 있다면 댓글로 알려주세요.
+      - paragraph: 작은 챌린지 하나가 하루를 조금 더 특별하게 만들어줄 수 있으니까요!
+      - paragraph: Fin.
+  - generic [ref=f23e14]:
+    - button "이전 슬라이드" [ref=f23e15] [cursor=pointer]: ‹
+    - generic [ref=f23e16]:
+      - button "1번 슬라이드로 이동" [ref=f23e17] [cursor=pointer]
+      - button "2번 슬라이드로 이동" [ref=f23e18] [cursor=pointer]
+      - button "3번 슬라이드로 이동" [ref=f23e19] [cursor=pointer]
+      - button "4번 슬라이드로 이동" [ref=f23e20] [cursor=pointer]
+      - button "5번 슬라이드로 이동" [ref=f23e21] [cursor=pointer]
+      - button "6번 슬라이드로 이동" [ref=f23e22] [cursor=pointer]
+      - button "7번 슬라이드로 이동" [ref=f23e23] [cursor=pointer]
+      - button "8번 슬라이드로 이동" [ref=f23e24] [cursor=pointer]
+    - button "다음 슬라이드" [active] [ref=f23e25] [cursor=pointer]: ›
+  - generic [ref=f23e26]: 2 / 8

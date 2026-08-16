@@ -1,0 +1,265 @@
+- generic [ref=f18e2]:
+  - banner [ref=f18e3]:
+    - generic [ref=f18e4]:
+      - heading [level=1] [ref=f18e5]:
+        - link "gyeom11 님의 블로그" [ref=f18e6] [cursor=pointer]:
+          - /url: https://gyeom11.tistory.com/
+      - button [ref=f18e9] [cursor=pointer]
+  - main [ref=f18e13]:
+    - generic [ref=f18e15]:
+      - generic [ref=f18e17]:
+        - paragraph [ref=f18e18]: 카테고리 없음
+        - heading "요즘 10대 사이에서 핫한 챌린지 트렌드 TOP 5" [level=2] [ref=f18e19]
+        - generic [ref=f18e20]:
+          - text: gyeom11 2026. 8. 15. 16:13
+          - button "더보기" [ref=f18e22] [cursor=pointer]:
+            - img "더보기" [ref=f18e23]
+      - generic [ref=f18e27]:
+        - generic [ref=f18e28]:
+          - paragraph [ref=f18e29]: 요즘 SNS만 켜면 여기저기서 챌린지 영상이 쏟아지죠? 친구들이랑 같이 도전해보면 더 재밌는 요즘 10대 사이 인기 챌린지들을 모아봤어요. 오늘 소개하는 챌린지들, 하나쯤은 이미 들어보셨을지도 몰라요!
+          - paragraph [ref=f18e30]
+          - paragraph [ref=f18e31]: 1. 오늘의 스터디 챌린지
+          - paragraph [ref=f18e32]: 책상 정리부터 오늘의 공부 목표까지 짧게 기록하고 인증하는 챌린지예요. 거창한 계획이 아니어도 괜찮아요. "오늘은 수학 문제집 10쪽 풀기"처럼 작은 목표를 세우고 인증샷을 남기면, 며칠만 지나도 꾸준함이 눈에 보여서 뿌듯함이 커져요. 혼자 하기 힘들다면 친구랑 같이 하는 것도 추천!
+          - paragraph [ref=f18e33]
+          - paragraph [ref=f18e34]: 2. 댄스 챌린지
+          - paragraph [ref=f18e35]: 숏폼 영상에서 빠질 수 없는 게 바로 댄스 챌린지죠. 짧은 안무를 따라 추고 영상으로 남기는 건데, 처음엔 어색해도 몇 번 연습하면 금방 익숙해져요. 완벽하게 추지 않아도 괜찮아요. 즐기면서 찍는 게 포인트!
+          - paragraph [ref=f18e36]
+          - paragraph [ref=f18e37]: 3. 방 꾸미기 챌린지
+          - paragraph [ref=f18e38]: 내 방을 조금씩 바꿔가는 과정을 기록하는 챌린지예요. 큰 돈 들이지 않고도 소품 배치만 바꾸거나 포토존을 만들어보는 것만으로 분위기가 확 달라져요. 비포&애프터 사진을 남기면 나중에 보는 재미도 쏠쏠해요.
+          - paragraph [ref=f18e39]
+          - paragraph [ref=f18e40]: 4. 하루 3줄 일기 챌린지
+          - paragraph [ref=f18e41]: 거창한 다이어리 꾸미기가 부담스럽다면, 하루를 딱 세 줄로만 기록하는 챌린지를 추천해요. "오늘 있었던 일 / 느낀 점 / 내일 하고 싶은 것" 이렇게 짧게 남기면 부담 없이 꾸준히 이어갈 수 있어요.
+          - paragraph [ref=f18e42]
+          - paragraph [ref=f18e43]: 5. 디지털 디톡스 챌린지
+          - paragraph [ref=f18e44]: 역설적이게도 SNS에서 가장 화제가 되는 챌린지 중 하나가 바로 '스마트폰 안 보기' 챌린지예요. 하루 중 일정 시간을 정해두고 스마트폰 없이 보내는 건데, 막상 해보면 생각보다 시간이 많이 남는다는 걸 느낄 수 있어요.
+          - paragraph [ref=f18e45]
+          - paragraph [ref=f18e46]: 이 중에서 여러분이 이미 해본 챌린지가 있나요? 아니면 새롭게 도전해보고 싶은 챌린지가 있다면 댓글로 알려주세요. 작은 챌린지 하나가 하루를 조금 더 특별하게 만들어줄 수 있으니까요!
+        - generic [ref=f18e48]:
+          - button "좋아요 공감" [ref=f18e50] [cursor=pointer]:
+            - generic [ref=f18e51]:
+              - generic [ref=f18e52]: 좋아요
+              - generic [ref=f18e53]: 공감
+          - button "공유하기" [ref=f18e55] [cursor=pointer]
+          - button "통계" [ref=f18e58] [cursor=pointer]
+          - button "게시글 관리" [ref=f18e61] [cursor=pointer]
+      - generic [ref=f18e63]:
+        - generic [ref=f18e64]:
+          - heading "Tag" [level=3] [ref=f18e65]
+          - generic [ref=f18e66]:
+            - link "10대" [ref=f18e67] [cursor=pointer]:
+              - /url: /tag/10%EB%8C%80
+            - text: ","
+            - link "SNS" [ref=f18e68] [cursor=pointer]:
+              - /url: /tag/SNS
+            - text: ","
+            - link "유행" [ref=f18e69] [cursor=pointer]:
+              - /url: /tag/%EC%9C%A0%ED%96%89
+            - text: ","
+            - link "챌린지" [ref=f18e70] [cursor=pointer]:
+              - /url: /tag/%EC%B1%8C%EB%A6%B0%EC%A7%80
+            - text: ","
+            - link "트렌드" [ref=f18e71] [cursor=pointer]:
+              - /url: /tag/%ED%8A%B8%EB%A0%8C%EB%93%9C
+        - generic [ref=f18e72]:
+          - heading "'카테고리 없음'의 다른글" [level=3] [ref=f18e73]
+          - list [ref=f18e74]:
+            - listitem
+            - listitem [ref=f18e75]:
+              - text: 현재글
+              - strong [ref=f18e76]: 요즘 10대 사이에서 핫한 챌린지 트렌드 TOP 5
+              - text: ":"
+            - listitem [ref=f18e77]:
+              - link [ref=f18e78] [cursor=pointer]:
+                - /url: /2
+                - text: 다음글
+                - strong [ref=f18e79]: 집중력을 높이는 짧은 휴식 습관
+        - generic [ref=f18e81]:
+          - generic [ref=f18e83]:
+            - generic [ref=f18e84]:
+              - link "gyeom11 님의 블로그" [ref=f18e85] [cursor=pointer]:
+                - /url: https://gyeom11.tistory.com
+              - link "gyeom11 님의 블로그 입니다." [ref=f18e86] [cursor=pointer]:
+                - /url: https://gyeom11.tistory.com
+            - link [ref=f18e87] [cursor=pointer]:
+              - /url: https://gyeom11.tistory.com
+          - generic [ref=f18e91]:
+            - generic [ref=f18e92]: 댓글0
+            - generic [ref=f18e97]:
+              - generic [ref=f18e99]:
+                - generic [ref=f18e100]: gyeom11
+                - generic: 댓글
+                - generic [ref=f18e101]: 내용을 입력하세요.
+              - generic [ref=f18e102]:
+                - generic [ref=f18e103] [cursor=pointer]:
+                  - checkbox "비밀글"
+                  - generic: 비밀글
+                - button "등록" [disabled] [ref=f18e105]
+    - complementary [ref=f18e106]:
+      - generic [ref=f18e108]:
+        - img "프로필사진" [ref=f18e109]
+        - paragraph [ref=f18e110]: gyeom11 님의 블로그
+        - paragraph [ref=f18e111]: gyeom11 님의 블로그 입니다.
+        - generic [ref=f18e112]:
+          - button "글쓰기" [ref=f18e113] [cursor=pointer]
+          - button "블로그 관리" [ref=f18e114] [cursor=pointer]
+      - navigation [ref=f18e116]:
+        - list [ref=f18e117]:
+          - listitem [ref=f18e118]:
+            - link "분류 전체보기 (2) N" [ref=f18e119] [cursor=pointer]:
+              - /url: /category
+              - text: 분류 전체보기
+              - generic [ref=f18e120]: (2)
+              - img "N" [ref=f18e121]
+      - generic [ref=f18e122]:
+        - heading "Tag" [level=3] [ref=f18e123]
+        - generic [ref=f18e124]:
+          - link "SNS," [ref=f18e125] [cursor=pointer]:
+            - /url: /tag/SNS
+          - link "트렌드," [ref=f18e126] [cursor=pointer]:
+            - /url: /tag/%ED%8A%B8%EB%A0%8C%EB%93%9C
+          - link "집중력," [ref=f18e127] [cursor=pointer]:
+            - /url: /tag/%EC%A7%91%EC%A4%91%EB%A0%A5
+          - link "10대," [ref=f18e128] [cursor=pointer]:
+            - /url: /tag/10%EB%8C%80
+          - link "휴식," [ref=f18e129] [cursor=pointer]:
+            - /url: /tag/%ED%9C%B4%EC%8B%9D
+          - link "챌린지," [ref=f18e130] [cursor=pointer]:
+            - /url: /tag/%EC%B1%8C%EB%A6%B0%EC%A7%80
+          - link "생산성," [ref=f18e131] [cursor=pointer]:
+            - /url: /tag/%EC%83%9D%EC%82%B0%EC%84%B1
+          - link "유행," [ref=f18e132] [cursor=pointer]:
+            - /url: /tag/%EC%9C%A0%ED%96%89
+          - link "공부습관," [ref=f18e133] [cursor=pointer]:
+            - /url: /tag/%EA%B3%B5%EB%B6%80%EC%8A%B5%EA%B4%80
+      - generic [ref=f18e134]:
+        - heading "최근글과 인기글" [level=3] [ref=f18e135]
+        - list [ref=f18e136]:
+          - listitem [ref=f18e137]:
+            - link "최근글" [ref=f18e138] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f18e139]:
+            - link "인기글" [ref=f18e140] [cursor=pointer]:
+              - /url: "#"
+        - list [ref=f18e141]:
+          - listitem [ref=f18e142]:
+            - link [ref=f18e143] [cursor=pointer]:
+              - /url: /2
+              - paragraph [ref=f18e144]
+              - generic [ref=f18e145]:
+                - strong [ref=f18e146]: 집중력을 높이는 짧은 휴식 습관
+                - text: 2026.08.15 16:41
+          - listitem [ref=f18e147]:
+            - link [ref=f18e148] [cursor=pointer]:
+              - /url: /1
+              - generic [ref=f18e149]:
+                - strong [ref=f18e150]: 요즘 10대 사이에서 핫한 챌린지 트렌드 TOP 5
+                - text: 2026.08.15 16:13
+      - generic [ref=f18e151]:
+        - heading "최근댓글" [level=3] [ref=f18e152]
+        - list
+      - generic [ref=f18e153]:
+        - heading "공지사항" [level=3] [ref=f18e154]
+        - list
+      - generic [ref=f18e155]:
+        - heading "페이스북 트위터 플러그인" [level=3] [ref=f18e156]
+        - list [ref=f18e157]:
+          - listitem [ref=f18e158]:
+            - link "Facebook" [ref=f18e159] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f18e160]:
+            - link "Twitter" [ref=f18e161] [cursor=pointer]:
+              - /url: "#"
+      - generic [ref=f18e163]:
+        - heading "Archives" [level=3] [ref=f18e164]
+        - list [ref=f18e165]:
+          - listitem [ref=f18e166]:
+            - link "2026/08" [ref=f18e167] [cursor=pointer]:
+              - /url: /archive/202608
+      - generic [ref=f18e168]:
+        - heading "Calendar" [level=3]
+        - table [ref=f18e171]:
+          - caption [ref=f18e172]:
+            - link "〈":
+              - /url: /archive/202607
+            - link "2026. 08" [ref=f18e173] [cursor=pointer]:
+              - /url: /archive/202608
+            - link "〉":
+              - /url: /archive/202609
+          - rowgroup [ref=f18e174]:
+            - row [ref=f18e175]:
+              - columnheader "일" [ref=f18e176]
+              - columnheader "월" [ref=f18e177]
+              - columnheader "화" [ref=f18e178]
+              - columnheader "수" [ref=f18e179]
+              - columnheader "목" [ref=f18e180]
+              - columnheader "금" [ref=f18e181]
+              - columnheader "토" [ref=f18e182]
+          - rowgroup [ref=f18e183]:
+            - row [ref=f18e184]:
+              - cell [ref=f18e185]
+              - cell [ref=f18e186]
+              - cell [ref=f18e187]
+              - cell [ref=f18e188]
+              - cell [ref=f18e189]
+              - cell [ref=f18e190]
+              - cell "1" [ref=f18e191]
+            - row [ref=f18e192]:
+              - cell "2" [ref=f18e193]
+              - cell "3" [ref=f18e194]
+              - cell "4" [ref=f18e195]
+              - cell "5" [ref=f18e196]
+              - cell "6" [ref=f18e197]
+              - cell "7" [ref=f18e198]
+              - cell "8" [ref=f18e199]
+            - row [ref=f18e200]:
+              - cell "9" [ref=f18e201]
+              - cell "10" [ref=f18e202]
+              - cell "11" [ref=f18e203]
+              - cell "12" [ref=f18e204]
+              - cell "13" [ref=f18e205]
+              - cell "14" [ref=f18e206]
+              - cell [ref=f18e207]:
+                - link "15" [ref=f18e208] [cursor=pointer]:
+                  - /url: /archive/20260815
+            - row [ref=f18e209]:
+              - cell "16" [ref=f18e210]
+              - cell "17" [ref=f18e211]
+              - cell "18" [ref=f18e212]
+              - cell "19" [ref=f18e213]
+              - cell "20" [ref=f18e214]
+              - cell "21" [ref=f18e215]
+              - cell "22" [ref=f18e216]
+            - row [ref=f18e217]:
+              - cell "23" [ref=f18e218]
+              - cell "24" [ref=f18e219]
+              - cell "25" [ref=f18e220]
+              - cell "26" [ref=f18e221]
+              - cell "27" [ref=f18e222]
+              - cell "28" [ref=f18e223]
+              - cell "29" [ref=f18e224]
+            - row [ref=f18e225]:
+              - cell "30" [ref=f18e226]
+              - cell "31" [ref=f18e227]
+              - cell [ref=f18e228]
+              - cell [ref=f18e229]
+              - cell [ref=f18e230]
+              - cell [ref=f18e231]
+              - cell [ref=f18e232]
+      - generic [ref=f18e233]:
+        - heading "방문자수 Total" [level=3] [ref=f18e234]:
+          - generic [ref=f18e235]: 방문자수
+          - text: Total
+        - paragraph [ref=f18e236]: "0"
+        - list [ref=f18e237]:
+          - listitem [ref=f18e238]: "Today : 0"
+          - listitem [ref=f18e239]: "Yesterday : 0"
+      - generic [ref=f18e241]:
+        - generic: 블로그 내 검색
+        - textbox "블로그 내 검색" [ref=f18e242]:
+          - /placeholder: 검색내용을 입력하세요.
+  - contentinfo [ref=f18e243]:
+    - generic [ref=f18e244]:
+      - paragraph [ref=f18e246]: Copyright © Daum Corp. All rights reserved.
+      - generic [ref=f18e247]:
+        - button "관련사이트" [ref=f18e248] [cursor=pointer]
+        - list [ref=f18e249]
